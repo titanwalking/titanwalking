@@ -1,1 +1,1 @@
-![](githubprofilegif.gif)
+![](profile.gif)

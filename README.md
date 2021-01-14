@@ -1,4 +1,6 @@
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+![alicanKorkmaz](https://github.com/titanwalking/titanwalking/blob/master/mgif.gif)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>

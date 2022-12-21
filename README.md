@@ -6,5 +6,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alikorkmaz_apk" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="alikorkmaz_apk" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/korkmazali92" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="korkmazali92" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/alicankorkmaz" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="korkmazali92" height="30" width="30" /></a>
 </p>
